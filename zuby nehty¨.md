@@ -1,3 +1,14 @@
+<style>
+h1 {
+color:red;
+text-decoration:underline;
+}
+body {
+background-color:aqua;
+}
+
+</style>
+
 # Zuby a nehty, 19 + 1 hrůzostrašná povídka
 
 *Dvacet strašidelných povídek od deseti autorů – členů tvůrčí skupiny Hlava nehlava. Jde o druhé vydání sborníku – aktualizované, doplněné o dva nové příběhy a s novými ilustracemi 
